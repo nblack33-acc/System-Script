@@ -10,7 +10,7 @@
 
 
 # Output the current username
-echo -e '\n $USER'
+
 
 # Output the date in MM-DD-YYYY format
 
